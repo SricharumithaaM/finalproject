@@ -1,2 +1,2 @@
-# finalproject
+# javascript
 Created with CodeSandbox
